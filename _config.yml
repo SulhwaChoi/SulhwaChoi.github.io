@@ -20,16 +20,13 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                Devlog.S 
+title:                Sulhwa's 개발노트 📝
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
-
+description:   공부 내용정리 및 개발내용 기록 중 🥰 
 # A shorter description for the sidebar.
-tagline:  Hi, Welcome To My Blog ! 
+tagline:  한 발짝 나아가는 중 ✨
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,32 +39,34 @@ logo:                  /assets/img/me.jpg
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:              <SulhwaChoi>
-  email:             <imsulhwa00@gmail.com>
+  name:              Sulhwa Choi
+  email:             imsulhwa00@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
+  - title:             HOME
+    url:               /home/
+  - title:             ABOUT
     url:               /about/
+  - title:             POSTS
+    url:               /posts/
+  - title:             PROJECT
+    url:               /project/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+      #- title:             LICENSE
+      #  url:               /LICENSE/
+      #- title:             NOTICE
+      #  url:               /NOTICE/
+      #- title:             CHANGELOG
+      #  url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2022. Sulhwa All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
@@ -88,7 +87,7 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/me.jpg
+accent_image:          /assets/img/sidebackground.jpg
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,

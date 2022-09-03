@@ -10,5 +10,7 @@ redirect_from:
 ---
 
 # About
-       [프론트엔드 개발자가 되기위해 성장하고 있는 예비 개발자 🌱]
+  ![profile](/assets/img/me.jpg){: width="180" height="180"}{:style="float: right; margin-right: 7px; margin-top; 5px; margin-bottom:5px;}
+
+  프론트엔드 개발자로 성장하고 있는 예비 개발자 🌱
 
