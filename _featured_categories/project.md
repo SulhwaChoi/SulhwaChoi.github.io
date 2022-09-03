@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink:/project/project1
+permalink: /project/project1
 ---
