@@ -1,11 +1,11 @@
 ---
 layout: page
-title: PROJECT
+title: POSTS
 description: >
-  만든 프로젝트 기록하는 곳 💙
+  공부 내용 차곡차곡 정리하는 곳 🧡
 hide_description: false
 sitemap: false
-permalink: /project/
+permalink: /posts/
 ---
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
