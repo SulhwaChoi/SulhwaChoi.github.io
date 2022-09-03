@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: POST
+title: algorithm
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: post
+slug: algorithm
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-개발 공부 차곡차곡 정리 👩🏻‍💻
+알고리즘 문제풀이 📌
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /post/
+permalink: /post/algorithm
 ---

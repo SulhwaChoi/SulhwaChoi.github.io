@@ -1,8 +1,8 @@
 ---
-layout: list
+layout: page
 title: POST
 description: >
-  개발 공부 차곡차곡 정리 👩🏻‍💻
+  공부내용 차곡차곡 정리 💚
 hide_description: false
 sitemap: false
 permalink: /post/
