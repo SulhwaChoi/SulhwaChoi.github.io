@@ -10,7 +10,5 @@ redirect_from:
 ---
 
 # About
-  ![profile](/assets/img/me.jpg){: width="180" height="180"}{:style="float: right; margin-right: 7px; margin-top; 5px; margin-bottom:5px;}
 
-  프론트엔드 개발자로 성장하고 있는 예비 개발자 🌱
 
