@@ -20,13 +20,13 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                Sulhwa's 개발노트 📝
+title:                Sulhwa's 개발노트📝
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:   공부 내용정리 및 개발내용 기록 중 🥰 
 # A shorter description for the sidebar.
-tagline:  한 발짝 나아가는 중 ✨
+tagline:  한 걸음씩 나아가는 중 ✨
 
 # A list of keywords for your blog
 keywords:              []
