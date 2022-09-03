@@ -50,8 +50,8 @@ menu:
     url:               /
   - title:             ABOUT
     url:               /about/
-  - title:             POSTS
-    url:               /posts/
+  - title:             POST
+    url:               /post/
   - title:             PROJECT
     url:               /project/
 
