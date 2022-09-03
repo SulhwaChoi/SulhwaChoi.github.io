@@ -29,7 +29,9 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:    
+    .   ·  *
+˚ .   성장하는 프론트엔드 개발자가 되기위해 공부하고있습니다 
 
 # A list of keywords for your blog
 keywords:              []
