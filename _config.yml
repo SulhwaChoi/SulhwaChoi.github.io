@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                Devlog.S 
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -80,8 +80,13 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 #theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
+=======
+theme: jekyll-theme-hydejack
+#remote_theme: hydecorp/hydejack@v9
+>>>>>>> 3fe10434e38b784859211aecbe49c146ecccd9b1
 
 
 # Customizaton
