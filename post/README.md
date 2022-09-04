@@ -16,4 +16,4 @@ permalink: /post/
 * [algorithm]{:.heading.flip-title} --- 알고리즘 풀이 
 
 
-[algorithm]: /post/algorithm
+[algorithm]: /post/algorithm/
