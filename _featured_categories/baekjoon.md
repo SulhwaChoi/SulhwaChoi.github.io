@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Baekjoon
+title: 백준 문제풀이
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: baekjoon
