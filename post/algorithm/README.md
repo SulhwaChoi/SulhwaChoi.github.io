@@ -11,12 +11,12 @@ permalink: /post/algorithm/
 ## BaekJoon 
 - [백준 문제풀이]{:.heading.flip-title}
 
-[백준문제풀이]: /post/algorithm/baekjoon
+[백준 문제풀이]: /post/algorithm/baekjoon
 
 ## Leetcode
 - [릿코드 문제풀이]{:.heading.flip-title}
 
-[릿코드문제풀이]: /post/algorithm/leetcode
+[릿코드 문제풀이]: /post/algorithm/leetcode
 
 ## Programmers
 - [프로그래머스 문제풀이]{:.heading.flip-title}
