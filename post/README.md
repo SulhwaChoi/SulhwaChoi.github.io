@@ -13,7 +13,7 @@ permalink: /post/
 ## Javascript
 
 ## Other
-- [algorithm]{:.heading.flip-title} --- 알고리즘 풀이 
+- [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이 
 
 
-[algorithm]: /post/algorithm/
+[Algorithm]: /post/algorithm/
