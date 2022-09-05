@@ -9,11 +9,14 @@ permalink: /post/
 ---
 
 ## Html/Css
+- [Html&Css]{:.heading.flip-title} --- 개념 정리 🍎
+
+[Html&Css]: /post/html&css 
 
 ## Javascript
 
 ## Other
-- [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이 
+- [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이 with javascript 🍊
 
 
 [Algorithm]: /post/algorithm/

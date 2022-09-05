@@ -9,12 +9,12 @@ permalink: /project/
 ---
 
 ## My Project
-* [Myproject]{:.heading.flip-title} --- 내가 만든 프로젝트
+* [MyProject]{:.heading.flip-title} --- 내가 만든 프로젝트
 
-[Myproject]: /project/myproject
+[MyProject]: /project/myproject
 
 
 ## Team Project
-* [Teamproject]{:.heading.flip-title} --- 팀 프로젝트, 협업
+* [TeamProject]{:.heading.flip-title} --- 팀 프로젝트, 협업
 
-[Teamproject]: /project/teamproject
+[TeamProject]: /project/teamproject
