@@ -11,7 +11,7 @@ permalink: /post/
 ## Html/Css
 - [Html&Css]{:.heading.flip-title} --- 개념 정리 🍎
 
-[Html&Css]: /post/html-css 
+[Html&Css]: /post/html-css
 
 ## Javascript
 

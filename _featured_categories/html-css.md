@@ -3,7 +3,7 @@
 layout: list
 
 # The title of the tag's page.
-title: Html/Css
+title: Html&Css
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: html-css
@@ -19,5 +19,5 @@ description: >
 # DON'T USE THIS SETTING IN YOUR CATEGORIES!
 sitemap: false
 
-permalink: /post/html-css
+permalink: /post/html-css/
 ---
