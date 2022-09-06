@@ -14,6 +14,13 @@ permalink: /post/
 [Html&Css]: /post/html-css
 
 ## Javascript
+- [VanillaJs]{:.heading.flip-title} --- 바닐라 JS 🍋
+- [React]{:.heading.flip-title} --- 리액트 🫐
+- [Vue]{:.heading.flip-title} --- 뷰 🍏
+
+[VanillaJs]: /post/vanillajs
+[React]: /post/react
+[Vue]: /post/vue
 
 ## Other
 - [Algorithm]{:.heading.flip-title} --- 알고리즘 문제풀이 with javascript 🍊
