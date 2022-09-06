@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "시맨틱 웹(Semantic Web) & 시맨틱 태그(Semantic Tags)"
-date: 2022-09-06 16:53:20 +0900
-tags: HTML CSS
+title: "시맨틱 웹(Semantic Web)과 시맨틱 태그(Semantic Tags)"
+date: 2022-09-06 16:55:20 +0900
+tags: [HTML] [CSS]
 published: true
 categories: html-css
 ---
@@ -15,9 +15,10 @@ categories: html-css
 
 <p align="center">
 <img width="500px" src="https://blog.jupiterflow.com/images/post_include/semantic_web/study/image-20210322093639671.png"> 
-
-[이미지 출처](https://blog.jupiterflow.com/2021/03/22/semantic_web/study/03/)
 </p>
+
+[이미지출처](https://blog.jupiterflow.com/2021/03/22/semantic_web/study/03/)
+
 
 <br>
 <br>
@@ -50,9 +51,9 @@ categories: html-css
 
 <p align="center">
 <img width="500px" src="https://velog.velcdn.com/images%2Fcecy-coding%2Fpost%2F70193099-d78d-4d3d-8731-ad65009d8d80%2Fsemantic%20tag.svg"> 
+</p>
 
 [이미지 출처](https://eunsukim.me/posts/understanding-semantic-html)
-</p>
 
 
 이랬던 태그를
@@ -69,17 +70,15 @@ categories: html-css
 **📌 시멘틱태그 종류**
 <p align="center">
 <img height="450px" src="https://velog.velcdn.com/images/remon/post/965335a4-4672-482e-b7f8-9cc64d29ea86/image.png"> 
+</p>
 
 [이미지 출처](https://eunsukim.me/posts/understanding-semantic-html)
-</p>
 
 
 <hr>
 <br>
 
 ## 🔑&nbsp;키워드 
-
-<br>
 
 ### 1. img 태그를 사용    
 ```html
