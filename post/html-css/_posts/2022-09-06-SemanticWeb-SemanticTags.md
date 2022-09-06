@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "시맨틱 웹(Semantic Web) & 시맨틱 태그(Semantic Tags)"
-date: 2022-09-06 16:42:20 +0900
+date: 2022-09-06 16:53:20 +0900
 tags: HTML CSS
 published: true
 categories: html-css
