@@ -31,6 +31,7 @@ tagline:  한 걸음씩 나아가는 중 ✨
 # A list of keywords for your blog
 keywords:              []
 
+futrue: true
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
@@ -74,6 +75,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
 paginate_path:         /:num/
+
 
 
 # Theme

@@ -3,6 +3,7 @@ layout: post
 title: "시맨틱 웹(Semantic Web) & 시맨틱 태그(Semantic Tags)"
 date: 2022-09-06 16:42:20 +0900
 tags: HTML CSS
+published: true
 categories: html-css
 ---
 
@@ -32,14 +33,15 @@ categories: html-css
 검색엔진이란 컴퓨터 시스템에 저장된 정보를 찾아주거나 웹 검색(web search query)을 도와주도록 설계되었는데 검색 결과를 보여주기 위해 검색엔진은 HTML 코드를 분석해서 노출시킨다.
 <br>
 
-    **웹 접근성**   
+   **웹 접근성**   
 음성으로 읽어주는 "스크린리더"를 이용하거나 키보드만을 이용해서 만든 웹사이트를 이용하는 경우, 시맨틱 태그로 잘 작성된 HTML이라면 문제없이 동작할 수 있다.
 <br>
 
-    **유지보수성**     
+   **유지보수성**   
 한 눈에 알아보기 쉽고 의미파악하기 쉽기 때문에  다른 개발자들이 코드를 유지보수하기가 더 편리해진다.
 
 [출처](https://velog.io/@remon/시맨틱-태그Semantic-Tag란)
+<br>
 <br>
 
 
