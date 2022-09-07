@@ -90,7 +90,7 @@ input {
 
 📌 블록요소 -> 인라인요소
 ```css
-span  {
+div  {
 display: inline;
 }
 ```
@@ -99,7 +99,7 @@ display: inline;
 📌 인라인요소 -> 블록요소
 
 ```css
-p  {
+a  {
 display: block;
 }
 ```
